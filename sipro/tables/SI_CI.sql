@@ -1,0 +1,30 @@
+--------------------------------------------------------
+--  DDL for Table SI_CI
+--------------------------------------------------------
+
+  CREATE TABLE "SIPRO"."SI_CI" 
+   (	"COMPANY_ID" VARCHAR2(26), 
+	"COMPANY" VARCHAR2(128), 
+	"TICKER" VARCHAR2(26), 
+	"EXCHANGE" VARCHAR2(26), 
+	"STREET" VARCHAR2(128), 
+	"CITY" VARCHAR2(26), 
+	"STATE" VARCHAR2(26), 
+	"ZIP" VARCHAR2(26), 
+	"COUNTRY" VARCHAR2(26), 
+	"PHONE" VARCHAR2(26), 
+	"WEB_ADDR" VARCHAR2(128), 
+	"BUSINESS" VARCHAR2(2000), 
+	"ANALYST_FN" VARCHAR2(200), 
+	"IND_2_DIG" NUMBER(38,0), 
+	"IND_3_DIG" NUMBER(38,0), 
+	"SIC" NUMBER(38,0), 
+	"DRP_AVAIL" VARCHAR2(26), 
+	"SP" VARCHAR2(26), 
+	"DOW" VARCHAR2(26), 
+	"ADR" VARCHAR2(26), 
+	"EMPLOYEES" NUMBER(38,0), 
+	"OPTIONABLE" VARCHAR2(26), 
+	"REPNO" VARCHAR2(26), 
+	"LASTMOD" DATE
+   ) ;

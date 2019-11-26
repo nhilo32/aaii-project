@@ -1,0 +1,34 @@
+--------------------------------------------------------
+--  DDL for Table SI_VAL
+--------------------------------------------------------
+
+  CREATE TABLE "SIPRO"."SI_VAL" 
+   (	"COMPANY_ID" VARCHAR2(26), 
+	"SPS_VAL" NUMBER(38,2), 
+	"EPS_VAL" NUMBER(38,2), 
+	"CFPS_VAL" NUMBER(38,2), 
+	"FCFPS_VAL" NUMBER(38,2), 
+	"DPS_VAL" NUMBER(38,2), 
+	"PSPSA_VAL" NUMBER(38,2), 
+	"PEA_VAL" NUMBER(38,2), 
+	"PCFPSA_VAL" VARCHAR2(26), 
+	"PFCPSA_VAL" NUMBER(38,2), 
+	"YIELDA_VAL" NUMBER(38,2), 
+	"EPS_EVAL" NUMBER(38,2), 
+	"PEA_EVAL" NUMBER(38,2), 
+	"BPG_EPS" NUMBER(38,1), 
+	"BPG_SUS" NUMBER(38,1), 
+	"IW_EE" NUMBER(38,2), 
+	"IW_EPH" NUMBER(38,2), 
+	"IW_EPL" NUMBER(38,2), 
+	"IW_PBUY" NUMBER(38,2), 
+	"IW_PLH" NUMBER(38,2), 
+	"IW_TR" NUMBER(38,2), 
+	"IW_PAR" NUMBER(38,2), 
+	"R1GRTH" NUMBER(38,1), 
+	"R1PE" NUMBER(38,1), 
+	"R1ECG10E" NUMBER(38,2), 
+	"R1FMKTPR" NUMBER(38,2), 
+	"R1SPRICE" NUMBER(38,2), 
+	"REPNO" VARCHAR2(26)
+   ) ;
