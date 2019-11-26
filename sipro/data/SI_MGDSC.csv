@@ -1,0 +1,261 @@
+MG_CODE|MG_DESC
+01|Basic Materials
+0103|Chemical Manufacturing
+0106|Chemicals - Plastics and Rubbers
+0109|Containters & Packaging
+0112|Fabricated Plastic & Rubber
+0115|Forestry & Wood Products
+0118|Gold & Silver
+0121|Iron & Steel
+0124|Metal Mining
+0127|Misc. Fabricated Products
+0130|Non-Metallic Mining
+0133|Paper & Paper Products
+02|Capital Goods
+0203|Aerospace and Defense
+0206|Construction & Agricultural Machinery
+0209|Construction - Supplies and Fixtures
+0212|Construction - Raw Materials
+0215|Construction Services
+0218|Misc. Capital Goods
+0221|Mobile Homes & RVs
+03|Conglomerates
+0303|Conglomerates
+04|Consumer Cyclical
+0403|Apparel/Accessories
+0406|Appliances & Tools
+0409|Audio & Video Equipment
+0412|Auto & Truck Manufacturers
+0415|Auto & Truck Parts
+0418|Footwear
+0421|Furniture & Fixtures
+0424|Jewelry & Silverware
+0427|Photography
+0430|Recreational Products
+0433|Textiles - Non-Apparel
+0436|Tires
+05|Consumer Non-Cyclical
+0503|Beverages (Alcoholic)
+0506|Beverages (Non-Alcoholic)
+0509|Crops
+0512|Fish/Livestock
+0515|Food Processing
+0518|Office Supplies
+0521|Personal & Household Products
+0524|Tobacco
+06|Energy
+0603|Coal
+0606|Oil & Gas - Integrated
+0609|Oil & Gas Operations
+0612|Oil Well Services & Equipment
+07|Financial
+0703|Consumer Financial Services
+0706|Insurance (Accident & Health)
+0709|Insurance (Life)
+0712|Insurance (Miscellaneous)
+0715|Insurance (Property & Casualty)
+0718|Investment Services
+0721|Misc. Financial Services
+0724|Money Center Banks
+0727|Regional Banks
+0730|S&Ls/Savings Banks
+08|Health Care
+0803|Biotechnology & Drugs
+0806|Healthcare Facilities
+0809|Major Drugs
+0812|Medical Equipment & Supplies
+09|Services
+0903|Advertising
+0906|Broadcasting & Cable TV
+0909|Business Services
+0912|Casinos & Gaming
+0915|Communications Services
+0918|Hotels & Motels
+0921|Motion Pictures
+0924|Personal Services
+0927|Printing & Publishing
+0930|Printing Services
+0933|Real Estate Operations
+0936|Recreational Activities
+0939|Rental & Leasing
+0942|Restaurants
+0945|Retail (Apparel)
+0948|Retail (Catalog & Mail Order)
+0951|Retail (Department & Discount)
+0954|Retail (Drugs)
+0957|Retail (Grocery)
+0960|Retail (Home Improvement)
+0963|Retail (Specialty Non-Apparel)
+0966|Retail (Technology)
+0969|Schools
+0972|Security Systems & Services
+0975|Waste Management Services
+10|Technology
+1003|Communications Equipment
+1006|Computer Hardware
+1012|Computer Networks
+1015|Computer Peripherals
+1018|Computer Services
+1021|Computer Storage Devices
+1024|Electronic Instruments & Controls
+1027|Office Equipment
+1030|Scientific & Technical Instruments
+1033|Semiconductors
+1036|Software & Programming
+11|Transportation
+1103|Air Courier
+1106|Airline
+1109|Misc. Transportation
+1112|Railroads
+1115|Trucking
+1118|Water Transportation
+12|Utilities
+1203|Electric Utilities
+1206|Natural Gas Utilities
+1209|Water Utilities
+50|Energy
+50101010|Coal
+50102010|Oil & Gas - Integrated
+50102020|Oil & Gas - Exploration and Production
+50102030|Oil & Gas - Refining and Marketing
+50103010|Oil & Gas - Drilling
+50103020|Oil & Gas - Related Services and Equipment
+50103030|Oil & Gas - Transportation Services
+50201010|Renewable Energy Equipment & Services
+50201020|Renewable Fuels
+50301010|Uranium
+51|Basic Materials
+51101010|Chemicals - Commodity
+51101020|Chemicals - Agricultural
+51101030|Chemicals - Specialty
+51101090|Chemicals - Diversified
+51201010|Non-Gold Precious Metals & Minerals
+51201020|Iron & Steel
+51201030|Aluminum
+51201050|Mining - Specialty
+51201060|Gold
+51201070|Mining - Support Services & Equipment
+51201080|Mining - Diversified
+51202010|Construction Materials
+51301010|Forest & Wood Products
+51301020|Paper Products
+51302010|Non-Paper Containers & Packaging
+51302020|Paper Packaging
+52|Industrials
+52101010|Aerospace & Defense
+52102010|Industrial Machinery & Equipment
+52102020|Heavy Machinery & Vehicles
+52102030|Electrical Components & Equipment
+52102040|Heavy Electrical Equipment
+52102050|Shipbuilding
+52201020|Construction & Engineering
+52202010|Diversified Industrial Goods Wholesalers
+52203010|Environmental Services & Equipment
+52203020|Commercial Printing Services
+52203030|Employment Services
+52203040|Business Support Services
+52203060|Business Support Supplies
+52203070|Professional Information Services
+52301010|Industrial Conglomerates
+52405010|Courier, Postal, Air Freight & Land-based Logistics
+52405020|Freight & Logistics - Marine
+52405030|Freight & Logistics - Ground
+52406010|Airlines
+52406020|Passenger Transportation, Ground & Sea
+52407010|Airport Operators & Services
+52407020|Marine Port Services
+52407030|Highways & Rail Tracks
+53|Consumer Cyclicals
+53101010|Auto & Truck Manufacturers
+53101020|Auto, Truck & Motorcycle Parts
+53101030|Tires & Rubber Products
+53202010|Textiles & Leather Goods
+53202020|Apparel & Accessories
+53202030|Footwear
+53203010|Homebuilding
+53203020|Construction Supplies & Fixtures
+53204030|Appliances, Tools & Housewares
+53204040|Home Furnishings
+53205010|Toys & Children's Products
+53205020|Recreational Products
+53301010|Hotels, Motels & Cruise Lines
+53301020|Restaurants & Bars
+53301030|Casinos & Gaming
+53301040|Leisure & Recreation
+53302010|Advertising & Marketing
+53302020|Broadcasting
+53302030|Entertainment Production
+53302040|Consumer Publishing
+53402010|Retailers - Department Stores
+53402020|Retailers - Discount Stores
+53403010|Retailers - Auto Vehicles, Parts & Service
+53403020|Retailers - Home Improvement Products & Services
+53403030|Retailers - Home Furnishings
+53403040|Retailers - Apparel & Accessories
+53403050|Retailers - Computer & Electronics
+53403090|Retailers - Other Specialty
+54|Non-Cyclicals
+54101010|Brewers
+54101020|Distillers & Wineries
+54101030|Non-Alcoholic Beverages
+54102010|Fishing & Farming
+54102020|Food Processing
+54102030|Tobacco
+54201010|Household Products
+54201020|Personal Products
+54201030|Personal Services
+54301010|Retailers - Drug
+54301020|Retailers - Food & Distribution
+55|Financials
+55101010|Banks
+55101030|Consumer Lending
+55101050|Corporate Financial Services
+55102010|Investment Banking & Brokerage Services
+55102020|Investment Management & Fund Operators
+55102030|Diversified Investment Services
+55102050|Financial & Commodity Market Operators & Service Providers
+55301010|Insurance - Multiline & Brokers
+55301020|Insurance - Property & Casualty
+55301030|Insurance - Life & Health
+55301050|Reinsurance
+55402010|Real Estate Rental, Development & Operations
+55402020|Real Estate Services
+55403010|REITs - Diversified
+55403020|REITs - Commercial
+55403030|REITs - Residential
+55403040|REITs - Specialized
+55501010|Investment Trusts
+55501020|Mutual Funds
+55501030|Closed End Funds
+55501040|Exchange-Traded Funds
+55501050|Pension Funds
+55501060|Insurance Funds
+55601010|Investment Holding Companies
+56|Healthcare
+56101010|Advanced Medical Equipment & Technology
+56101020|Medical Equipment, Supplies & Distribution
+56102010|Healthcare Facilities & Services
+56102020|Managed Health care
+56201040|Pharmaceuticals
+56202010|Biotechnology & Medical Research
+57|Technology
+57101010|Semiconductors
+57101020|Semiconductor Equipment & Testing
+57102010|Communications & Networking
+57104010|Electronic Equipment & Parts
+57105010|Office Equipment
+57106010|Computer Hardware
+57106020|Phones & Handheld Devices
+57106030|Household Electronics
+57201010|IT Services & Consulting
+57201020|Software
+57201030|Online Services
+58|Telecommunications Services
+58101010|Telecommunication Services - Integrated
+58101020|Telecommunication Services - Wireless
+59|Utilities
+59101010|Utilities - Electric
+59101020|Utilities - Independent Power Producers
+59102010|Utilities - Natural Gas
+59103010|Utilities - Water & Related
+59104010|Utilities - Multiline

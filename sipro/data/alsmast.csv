@@ -1,0 +1,17 @@
+FILE|ALIAS|COMMENTS|AUTO_OPEN|NOUPDATE|DEF_FILT|DESCRIP|REPORT
+SI_MGDSC|MGDSC_2||T|F||Description of industry groups|F
+SI_UTYP|UTYPY1||T|F||Description of update type Y1|F
+SI_UTYP|UTYPY2||T|F||Description of update type Y2|F
+SI_UTYP|UTYPY3||T|F||Description of update type Y3|F
+SI_UTYP|UTYPY4||T|F||Description of update type Y4|F
+SI_UTYP|UTYPY5||T|F||Description of update type Y5|F
+SI_UTYP|UTYPY6||T|F||Description of update type Y6|F
+SI_UTYP|UTYPY7||T|F||Description of update type Y7|F
+SI_UTYP|UTYPQ1||T|F||Description of update type Q1|F
+SI_UTYP|UTYPQ2||T|F||Description of update type Q2|F
+SI_UTYP|UTYPQ3||T|F||Description of update type Q3|F
+SI_UTYP|UTYPQ4||T|F||Description of update type Q4|F
+SI_UTYP|UTYPQ5||T|F||Description of update type Q5|F
+SI_UTYP|UTYPQ6||T|F||Description of update type Q6|F
+SI_UTYP|UTYPQ7||T|F||Description of update type Q7|F
+SI_UTYP|UTYPQ8||T|F||Description of update type Q8|F

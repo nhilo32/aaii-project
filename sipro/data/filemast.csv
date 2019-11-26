@@ -1,0 +1,52 @@
+DESCRIP|FILE|DIRECTORY|RUN_DIR|OPEN_ORDER|REPORT|LABELS|SYSTEM|COMMENTS|AUTO_OPEN|NOUPDATE|ALIAS|DEF_FILT|CODEPAGE|SI_COM
+Data Dictionary - Fields|DATADICT|||0|F|F|T||T||DATADICT|||F
+Dividend Reinvestment Plans|DRPS|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|DRPS||0|F
+Data Dictionary - Files|FILEMAST|||0|F|F|T||T||FILEMAST|||F
+Data Dictionary - Indexes|INDXMAST|||0|F|F|T||T||INDXMAST|||F
+Portfolios - individual companies|PFCOMP|..\Data Files\User\|~oAppType.cUserDataPath|0|F|F|F||T|F|PFCOMP||0|F
+Saved notebooks|PRJCT|..\Data Files\User\|~oAppType.cUserDataPath|0|F|F|F||T|F|PRJCT||0|F
+Portfolios - group information|PRTFLIO|..\Data Files\User\|~oAppType.cUserDataPath|0|F|F|F||T|F|PRTFLIO||0|F
+Data Dictionary - Relations|RELATION|||0|F|F|T||T||RELATION|||F
+Screens - individual criteria|SCRNDT|..\Data Files\User\|~oAppType.cUserDataPath|0|F|F|F||T|F|SCRNDT||0|F
+Screens - group information|SCRNHD|..\Data Files\User\|~oAppType.cUserDataPath|0|F|F|F||T|F|SCRNHD||0|F
+Stock Investor version information|SETUP|..\|.|0|F|F|T||T|F|SETUP||0|F
+Universal field statistics|SI_AVG|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_AVG||0|F
+Balance Sheet - Annual|SI_BSA|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_BSA||0|T
+Company Information|SI_CI|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_CI||0|T
+Dates and Periods|SI_DATE|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_DATE||0|T
+Earnings Estimates|SI_EE|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_EE||0|T
+Exchange codes|SI_EXCHG|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_EXCHG||0|F
+Growth Rates|SI_GR|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_GR||0|T
+Income Statement - Annual|SI_ISA|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_ISA||0|T
+Income Statement - Quarterly|SI_ISQ|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_ISQ||0|T
+Medians - Sectors|SI_MGAVG|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_MGAVG||0|F
+Industry group codes|SI_MGDSC|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_MGDSC||0|F
+Price and Share Statistics|SI_PSD|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_PSD||0|T
+Ratios|SI_RAT|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_RAT||0|T
+Custom Fields|SI_UDF|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_UDF||0|T
+Valuations|SI_VAL|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_VAL||0|T
+Custom field definitions|UDFLDS|..\Data Files\User\|~oAppType.cUserDataPath|0|F|F|F||T|F|UDFLDS||0|F
+Views - individual fields (user)|USRPTDT|..\Data Files\User\|~oAppType.cUserDataPath|0|F|F|F||T|F|USRPTDT||0|F
+Views - group information|USRPTS|..\Data Files\User\|~oAppType.cUserDataPath|0|F|F|F||T|F|USRPTS||0|F
+Data Dictionary - List Expressions|LISTMAST||||||T||T||LISTMAST|||
+Data Dictionary - Aliases|ALSMAST||||||T||T||ALSMAST|||
+Data Dictionary - Views|DDVIEWS||||||T||T||DDVIEWS|||
+Active notebook|SI_COM|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||F|F|SI_COM||0|F
+Multiples|SI_MLT|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_MLT||0|T
+Balance Sheet - Quarterly|SI_BSQ|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_BSQ||0|T
+Medians - Industries|SI_MGAV2|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_MGAV2||0|F
+Dow Jones classification codes|SI_DOW|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_DOW||0|F
+% Rank|SI_PERC|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_PERC||0|T
+Views - individual fields (standard)|STDVIEW|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|STDVIEW||0|F
+Cash Flow - Annual|SI_CFA|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_CFA||0|T
+Cash Flow - Quarterly|SI_CFQ|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_CFQ||0|T
+Prices - Annual|SI_PSDA|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_PSDA||0|T
+Prices - Monthly High|SI_PSDH|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_PSDH||0|T
+Prices - Monthly Low|SI_PSDL|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_PSDL||0|T
+Prices - Dates|SI_PSDD|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_PSDD||0|T
+Prices - Monthly Close|SI_PSDC|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_PSDC||0|T
+Prices - Monthly Volume|SI_PSDV|..\Data Files\Dynamic\|~oAppType.cDynamicDataPath|0|F|F|F||T|F|SI_PSDV||0|T
+S&P codes|SI_SP|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_SP||0|F
+Period type codes|SI_PTYP|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_PTYP||0|F
+Update type codes|SI_UTYP|..\Data Files\Static\|~oAppType.cStaticDataPath|0|F|F|F||T|F|SI_UTYP||0|F
+Sector codes|SI_TRBCS|...\Data Files\Static\|~oAppType.cStaticDataPath|||||||||||
