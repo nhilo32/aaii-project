@@ -1,4 +1,3 @@
-FILE|FIELD_NUM|FIELD_NAME|FIELD_TYPE|FIELD_LEN|FIELD_DEC|FIELD_DESC|SORT|REL_REPORT|REPORT|LABELS|MERGE|NULL|PICTURE|DEFAULT|WHEN|VALID|MESSAGE|ERROR|RANGELO|RANGEHI|COMMENTS|CALC_EXPR|HELP|PREV_NAME|CPNOTRANS|SI_TYPE|SI_CALC
 DRPS|1|TICKER|C|6|0|Ticker|T|T|T|F|F|F|||||||||Stock ticker symbol||||F||F
 DRPS|2|PHONE|C|25|0|Phone|T|T|T|F|F|F|||||||||Telephone number of company                            ||||||F
 DRPS|3|DRP|L|1|0|Indicates DRP (always true)|F|T|T|F|F|F|Y||||||||                                                       ||||||F

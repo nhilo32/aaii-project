@@ -1,4 +1,3 @@
-FILE|ALIAS|COMMENTS|AUTO_OPEN|NOUPDATE|DEF_FILT|DESCRIP|REPORT
 SI_MGDSC|MGDSC_2||T|F||Description of industry groups|F
 SI_UTYP|UTYPY1||T|F||Description of update type Y1|F
 SI_UTYP|UTYPY2||T|F||Description of update type Y2|F
