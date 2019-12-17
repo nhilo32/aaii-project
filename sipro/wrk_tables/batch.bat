@@ -1,0 +1,3 @@
+"C:\01-MySoftware\dbfConverter\dbfcnv.exe" "C:\Program Files (x86)\Stock Investor\Professional\Datadict\*.dbf" C:\01-MySoftware\StockInvestorProCSV /tocsv /SEPPIPE
+"C:\01-MySoftware\dbfConverter\dbfcnv.exe" "C:\Program Files (x86)\Stock Investor\Professional\Dbfs\*.dbf" C:\01-MySoftware\StockInvestorProCSV /tocsv /SEPPIPE
+"C:\01-MySoftware\dbfConverter\dbfcnv.exe" "C:\Program Files (x86)\Stock Investor\Professional\Static\*.dbf" C:\01-MySoftware\StockInvestorProCSV /tocsv /SEPPIPE
