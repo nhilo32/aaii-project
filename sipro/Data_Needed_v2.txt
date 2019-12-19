@@ -1,0 +1,46 @@
+
+DATADICT	Data Dictionary - Fields                                        F
+FILEMAST	Data Dictionary - Files                                            F
+INDXMAST	Data Dictionary - Indexes                                        F
+RELATION	Data Dictionary - Relations                                        F
+LISTMAST	Data Dictionary - List Expressions        
+ALSMAST		Data Dictionary - Aliases        
+DDVIEWS		Data Dictionary - Views        
+
+DRPS		Dividend Reinvestment Plans				..\Data Files\Static\		F
+SI_AVG		Universal field statistics				..\Data Files\Dynamic\		F
+SI_BSA		Balance Sheet - Annual					..\Data Files\Static\		T
+SI_BSQ		Balance Sheet - Quarterly				..\Data Files\Static\		T
+SI_CI		Company Information						..\Data Files\Static\		T
+SI_DATE		Dates and Periods						..\Data Files\Static\		T
+SI_ISA		Income Statement - Annual				..\Data Files\Static\		T
+SI_ISQ		Income Statement - Quarterly			..\Data Files\Static\		T
+SI_EE		Earnings Estimates						..\Data Files\Dynamic\		T
+SI_GR		Growth Rates							..\Data Files\Dynamic\		T
+SI_RAT		Ratios									..\Data Files\Dynamic\		T
+SI_VAL		Valuations								..\Data Files\Dynamic\		T
+
+SI_COM		Active notebook							..\Data Files\Dynamic\		F
+
+SI_MLT		Multiples								..\Data Files\Dynamic\		T
+SI_PERC		% Rank									..\Data Files\Dynamic\		T
+STDVIEW		Views - individual fields (standard)	..\Data Files\Static\		F
+SI_CFA		Cash Flow - Annual						..\Data Files\Static\		T
+SI_CFQ		Cash Flow - Quarterly					..\Data Files\Static\		T
+SI_PSD		Price and Share Statistics				..\Data Files\Dynamic\		T
+SI_PSDA		Prices - Annual							..\Data Files\Dynamic\		T
+SI_PSDH		Prices - Monthly High					..\Data Files\Dynamic\		T
+SI_PSDL		Prices - Monthly 						..\Data Files\Dynamic\		T
+SI_PSDD		Prices - Dates							..\Data Files\Dynamic\		T
+SI_PSDC		Prices - Monthly Close					..\Data Files\Dynamic\		T
+SI_PSDV		Prices - Monthly Volume					..\Data Files\Dynamic\		T
+
+SI_MGAVG	Medians - Sectors						..\Data Files\Dynamic\		F
+SI_MGAV2	Medians - Industries					..\Data Files\Dynamic\		F
+SI_MGDSC	Industry group codes					..\Data Files\Static\		F
+SI_EXCHG	Exchange codes							..\Data Files\Static\		F
+SI_SP		S&P codes								..\Data Files\Static\		F
+SI_DOW		Dow Jones classification codes			..\Data Files\Static\		F
+SI_PTYP		Period type codes						..\Data Files\Static\		F
+SI_UTYP		Update type codes						..\Data Files\Static\		F
+SI_TRBCS	Sector codes							..\Data Files\Static\    
