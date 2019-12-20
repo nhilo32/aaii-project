@@ -1,0 +1,6 @@
+-- Converts Number to HEX
+SELECT TO_CHAR(178, 'XXXXXXXXXXXX') AS hex FROM dual; --   2980FFA48D
+-- Converts HEX to Number
+SELECT to_number('2980FFA48D','XXXXXXXXXXXX') FROM dual;
+-- Converts Text to HEX
+SELECT RAWTOHEX('INFORMATICA') FROM dual;
